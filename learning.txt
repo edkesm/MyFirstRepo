@@ -1,0 +1,3 @@
+What I have learned in this course
+
+So far in this course, I have learned how to use GitHub for version control and collaboration. I now understand how to create repositories, make commits, work with branches, open pull requests, and contribute to shared projects. Learning how to use Git locally and push changes to GitHub has helped me better understand how developers manage and track project progress efficiently.
